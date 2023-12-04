@@ -1,0 +1,7 @@
+merged_portmap= 'Merged_Portmap_2023_09_05--02_32_29_PM.xlsx'
+output_files_folder= 'phase2_cmo_configs'
+
+
+report_main_name= 'report_main'
+report_main_filtered_mismatch_name='report_main_filtered'
+report_mismatch_summary_file_name= 'msimatch_summary'
